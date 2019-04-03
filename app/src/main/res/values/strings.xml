@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera IR</string>
+    <color name="green">#8000ff00</color>
+    <string name="Important">Important</string>
+    <string name="message">Built-in camera also detect IR light, what we have added is the luminosity effect, which has clear visibility</string>
+    <string name="OK">OK</string>
+    <string name="ir_camera_msg">If you see a white light in a dark room which you cannot see with naked eyes, this may be a hidden camera</string>
+    <string name="dont"> DON\'T SHOW ME AGAIN</string>
+</resources>
